@@ -40,21 +40,48 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+</a>
+<a href="https://www.typescriptlang.org/docs/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+</a>
+<a href="https://react.dev/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+</a>
+<a href="https://docs.python.org/3/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+</a>
+<a href="https://aws.amazon.com/documentation/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws" />
+</a>
+<a href="https://docs.docker.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="30" alt="docker" />
+</a>
+<a href="https://git-scm.com/doc" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="git" />
+</a>
+<a href="https://www.mongodb.com/docs/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="mongodb" />
+</a>
+<a href="https://dev.mysql.com/doc/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="30" alt="mysql" />
+</a>
+<a href="https://www.tensorflow.org/learn" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="tensorflow" />
+</a>
+<a href="https://www.linux.org/pages/download/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="30" alt="linux" />
+</a>
+<a href="https://opencv.org/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="30"/> 
-  
+</a>
 </div>
 
 <br> 
