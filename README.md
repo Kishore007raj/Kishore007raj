@@ -12,7 +12,7 @@
 
 <br>
 
-- 🌱 I’m currently learning on learning Cyber Security,along with doing some projects related to AI and image processing **Google Cybersecurity Professional Certificate**
+- 🌱 I’m currently learning Cyber Security,along with doing some projects related to AI and image processing **Google Cybersecurity Professional Certificate**
 
 - 📝 I regularly write articles on [https://techieworld.hashnode.dev/](https://techieworld.hashnode.dev/)
 
