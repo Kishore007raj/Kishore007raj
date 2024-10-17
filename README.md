@@ -92,6 +92,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishore007raj&layout=compact&theme=merko&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <a href="https://holopin.io/@kishore007raj">
+    <img src="https://holopin.me/kishore007raj" alt="An image of @kishore007raj's Holopin badges" />
+  </a>
+</div>
+
+
 <br>
 <div align ="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/02293768-9242-47e1-bf8f-d084ba0a2d1d"     width="300">
