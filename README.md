@@ -7,7 +7,7 @@
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishore007raj" alt="kishore007raj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishore007raj&theme=matrix" alt="kishore007raj" /></a> </p>
 
 
 <br>
