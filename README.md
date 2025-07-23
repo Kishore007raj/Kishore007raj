@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cyber-Security analyst and an aspiring natural Image processing developer hailing from India</h3>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/kishore007raj/count.svg?" />
+  <img src="https://profile-counter.deno.dev/kishore007raj/count.svg?" />
 </div>
 
 <br>
