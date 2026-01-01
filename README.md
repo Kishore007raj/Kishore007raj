@@ -42,7 +42,7 @@
   <a href="https://ctf.hackthebox.com/user/profile/425083">
     <img src="https://img.shields.io/badge/Hackthebox-000000?style=for-the-badge&logo=hackthebox&logoColor=00B4FF"/>
   </a>
-  <a href="https://ctftime.org/profile">
+  <a href="https://ctftime.org/user/235010">
     <img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=CTFtime-464646&logoColor=00B4FF"/>
   </a>
 </p>
