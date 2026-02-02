@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=600&lines=M+Kishoreraj;Cybersecurity+Engineer;Offensive+Security;Blue+Team" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=600&lines=M+Kishoreraj;Cybersecurity+Engineer;SOC+L1+Analyst;Threat+Hunter;Security+Analyst;Offensive+Security;Blue+Team" />
 </h1>
 
 <p align="center">
