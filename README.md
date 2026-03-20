@@ -24,7 +24,7 @@
   <a href="https://x.com/crazy_freak365">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00B4FF"/>
   </a>
-  <a href="https://your-website.com">
+  <a href="https://beacons.ai/peter_uzumaki">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00B4FF"/>
   </a>
   <a href="https://leetcode.com/u/Jose_rolex21/">
@@ -41,6 +41,21 @@
   </a>
   <a href="https://ctftime.org/user/235010">
     <img src="https://img.shields.io/badge/CTFtime-000000?style=for-the-badge&logo=CTFtime-464646&logoColor=00B4FF"/>
+  </a>
+  <a href="https://leetcode.com/u/Jose_rolex21/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=00B4FF"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/Jose_rolex21">
+    <img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=00B4FF"/>
+  </a>
+  <a href="https://www.codechef.com/users/peter_uzumaki">
+    <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=00B4FF"/>
+  </a>
+  <a href="https://www.hackerearth.com/@Jose_rolex21/">
+    <img src="https://img.shields.io/badge/HackerEarth-000000?style=for-the-badge&logo=hackerearth&logoColor=00B4FF"/>
+  </a>
+  <a href="https://codeforces.com/profile/Kishore_rolex365">
+    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=00B4FF"/>
   </a>
 </p>
 
