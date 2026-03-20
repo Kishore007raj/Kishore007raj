@@ -1,15 +1,12 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00B4FF&center=true&vCenter=true&width=600&lines=M+Kishoreraj;Cybersecurity+Engineer;SOC+L1+Analyst;Threat+Hunter;Security+Analyst;Offensive+Security;Blue+Team" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7C7CFF&center=true&vCenter=true&width=600&lines=M+Kishoreraj;Software+Engineer;Backend+%7C+Systems+%7C+Web" />
 </h1>
 
-<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/P373rUZUM4K1.png" alt="Your badge png" />
-</p>
 
 <p align="center">
-  <em><strong>SOC • Detection Engineering • Network & Cloud Security  • Incident Response </strong></em>
+  <em><strong>Backend • Systems • APIs • Data Structures • Web Engineering </strong></em>
 </p>
 
 <hr>
@@ -51,123 +48,135 @@
 
 ## 🛡️ PROFESSIONAL SNAPSHOT
 
-Blue Team–focused security engineer with a strong interest in **detecting attacks, responding fast, and reducing blast radius**.
+Software Engineer focused on **building reliable systems, clean APIs, and scalable backend logic**.
 
-- Top **7%** on **TryHackMe** around the World
-- Hands‑on **Blue Team practitioner** (SOC & IR focused)
-- **Clear documentation** and **calm incident handling**
-- Expect in **Threat hunting**
-- Comfortable reading **logs, alerts, and noisy telemetry**
-- Also **Quite good on exploitation and Experience with real-world vulnerabilities**
+* Strong **problem-solving and debugging mindset**
+* Writes **clean, readable, and testable code**
+* Comfortable with **data structures, APIs, and system basics**
+* Focus on **correctness first, performance next**
 
 <hr>
 
 ## 🧠 CORE SKILLS
 
-### Detection & Monitoring 
+### Programming & Problem Solving
 
-![SIEM](https://img.shields.io/badge/SIEM%20Analysis-Advanced-111111?style=for-the-badge\&labelColor=1E90FF)
-![EDR](https://img.shields.io/badge/EDR-Hands--on-111111?style=for-the-badge\&labelColor=1E90FF)
-![Logs](https://img.shields.io/badge/Log%20Analysis-Strong-111111?style=for-the-badge\&labelColor=1E90FF)
-![MITRE](https://img.shields.io/badge/MITRE%20ATT%26CK-Working%20Knowledge-111111?style=for-the-badge\&labelColor=1E90FF)
-![Sysmon](https://img.shields.io/badge/Sysmon-Event%20Visibility-111111?style=for-the-badge\&labelColor=1E90FF)
-![Network](https://img.shields.io/badge/Network%20Telemetry-Comfortable-111111?style=for-the-badge\&labelColor=1E90FF)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Strong-111111?style=for-the-badge&labelColor=7C7CFF)
+![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-Solid-111111?style=for-the-badge&labelColor=7C7CFF)
+![Debugging](https://img.shields.io/badge/Debugging-Comfortable-111111?style=for-the-badge&labelColor=7C7CFF)
+![Code](https://img.shields.io/badge/Clean%20Code-Consistent-111111?style=for-the-badge&labelColor=7C7CFF)
 
-### Offensive Security 
+### Backend & APIs
 
-![Web](https://img.shields.io/badge/Web%20Exploitation-Strong-111111?style=for-the-badge\&labelColor=FF3131)
-![API](https://img.shields.io/badge/API%20Security-Strong-111111?style=for-the-badge\&labelColor=FF3131)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Advanced-111111?style=for-the-badge\&labelColor=FF3131)
-![Vulns](https://img.shields.io/badge/Real--world%20Vulnerabilities-Hands--on-111111?style=for-the-badge\&labelColor=FF3131)
-![Attack](https://img.shields.io/badge/Attack%20Techniques-Detection%20Aware-111111?style=for-the-badge\&labelColor=FF3131)
+![API](https://img.shields.io/badge/REST%20APIs-Hands--on-111111?style=for-the-badge&labelColor=00C896)
+![Auth](https://img.shields.io/badge/Auth%20%26%20Sessions-Working%20Knowledge-111111?style=for-the-badge&labelColor=00C896)
+![DB](https://img.shields.io/badge/Database%20Design-Practical-111111?style=for-the-badge&labelColor=00C896)
+![Async](https://img.shields.io/badge/Async%20Logic-Comfortable-111111?style=for-the-badge&labelColor=00C896)
 
-### Incident Response (SOC Core) 
+### Frontend (Functional)
 
-![IR](https://img.shields.io/badge/Incident%20Response-Hands--on-111111?style=for-the-badge\&labelColor=FFA500)
-![Triage](https://img.shields.io/badge/Alert%20Triage-Strong-111111?style=for-the-badge\&labelColor=FFA500)
-![Timeline](https://img.shields.io/badge/Timeline%20Reconstruction-Comfortable-111111?style=for-the-badge\&labelColor=FFA500)
-![IOC](https://img.shields.io/badge/IOC%20Extraction-Strong-111111?style=for-the-badge\&labelColor=FFA500)
-![Playbooks](https://img.shields.io/badge/IR%20Playbooks-Building-111111?style=for-the-badge\&labelColor=FFA500)
+![JS](https://img.shields.io/badge/JavaScript-Strong%20Basics-111111?style=for-the-badge&labelColor=FFB000)
+![React](https://img.shields.io/badge/React-Component%20Logic-111111?style=for-the-badge&labelColor=FFB000)
+![UI](https://img.shields.io/badge/UI%20Integration-Practical-111111?style=for-the-badge&labelColor=FFB000)
 
-### Cloud & Platform Security 
+### Systems & Dev Practices
 
-![Cloud](https://img.shields.io/badge/Cloud%20Security-Foundations-111111?style=for-the-badge\&labelColor=BFFF00)
-![IAM](https://img.shields.io/badge/IAM%20Monitoring-Hands--on-111111?style=for-the-badge\&labelColor=BFFF00)
-![Logs](https://img.shields.io/badge/Cloud%20Logs-Comfortable-111111?style=for-the-badge\&labelColor=BFFF00)
+![Linux](https://img.shields.io/badge/Linux-Comfortable-111111?style=for-the-badge&labelColor=FF5F5F)
+![Git](https://img.shields.io/badge/Git-Version%20Control-Strong-111111?style=for-the-badge&labelColor=FF5F5F)
+![Docker](https://img.shields.io/badge/Docker-Basics-111111?style=for-the-badge&labelColor=FF5F5F)
+![Testing](https://img.shields.io/badge/Testing-Mindset-111111?style=for-the-badge&labelColor=FF5F5F)
 
 <hr>
 
-## 🧩 CYBERSECURITY TECH STACK
-### Programming and Scripting Languages
+## 🧩 SOFTWARE ENGINEERING TECH STACK
 
-![Python](https://img.shields.io/badge/Python-Security%20Automation-111111?style=for-the-badge\&logo=python\&labelColor=FF6D00)
-![Bash](https://img.shields.io/badge/Bash-Operational%20Scripting-111111?style=for-the-badge\&logo=gnu-bash\&labelColor=FF6D00)
-![PowerShell](https://img.shields.io/badge/PowerShell-Windows%20IR-111111?style=for-the-badge\&logo=powershell\&labelColor=FF6D00)
-![JavaScript](https://img.shields.io/badge/JavaScript-Web%20Logic-111111?style=for-the-badge\&logo=javascript\&labelColor=FF6D00)
-![SQL](https://img.shields.io/badge/SQL-DB%20Queries-111111?style=for-the-badge\&logo=mysql\&labelColor=FF6D00)
-![Go](https://img.shields.io/badge/Go-Tools%20Dev-111111?style=for-the-badge\&logo=go\&labelColor=FF6D00)
+### Programming & Scripting Languages
 
-### Platforms
+![Python](https://img.shields.io/badge/Python-Backend%20Logic-111111?style=for-the-badge&logo=python&labelColor=7C7CFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-Core%20Web-111111?style=for-the-badge&logo=javascript&labelColor=7C7CFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-Type%20Safety-111111?style=for-the-badge&logo=typescript&labelColor=7C7CFF)
+![Go](https://img.shields.io/badge/Go-Systems%20Dev-111111?style=for-the-badge&logo=go&labelColor=7C7CFF)
+![Java](https://img.shields.io/badge/Java-Backend%20Services-111111?style=for-the-badge&logo=openjdk&labelColor=7C7CFF)
+![C++](https://img.shields.io/badge/C%2B%2B-Performance%20Code-111111?style=for-the-badge&logo=cplusplus&labelColor=7C7CFF)
+![SQL](https://img.shields.io/badge/SQL-Data%20Queries-111111?style=for-the-badge&logo=postgresql&labelColor=7C7CFF)
+![Bash](https://img.shields.io/badge/Bash-Automation-111111?style=for-the-badge&logo=gnu-bash&labelColor=7C7CFF)
+![Rust](https://img.shields.io/badge/Rust-Memory%20Safe-111111?style=for-the-badge&logo=rust&labelColor=7C7CFF)
+![PHP](https://img.shields.io/badge/PHP-Web%20Backends-111111?style=for-the-badge&logo=php&labelColor=7C7CFF)
 
-![Linux](https://img.shields.io/badge/Linux-Systems%20Ops-111111?style=for-the-badge\&logo=linux\&labelColor=FF007F)
-![Windows](https://img.shields.io/badge/Windows-Enterprise%20IR-111111?style=for-the-badge\&logo=windows\&labelColor=FF007F)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-Directory%20Ops-111111?style=for-the-badge\&logo=windows\&labelColor=FF007F)
-![Docker](https://img.shields.io/badge/Docker-Containers-111111?style=for-the-badge\&logo=docker\&labelColor=FF007F)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-111111?style=for-the-badge\&logo=kubernetes\&labelColor=FF007F)
+---
 
-### Blue Team / SOC
+### Backend Frameworks & Runtimes
 
-![Splunk](https://img.shields.io/badge/Splunk-SIEM%20Ops-111111?style=for-the-badge\&logo=splunk\&labelColor=00C8FF)
-![ELK](https://img.shields.io/badge/ELK-Log%20Analysis-111111?style=for-the-badge\&logo=elastic\&labelColor=00C8FF)
-![Wazuh](https://img.shields.io/badge/Wazuh-EDR%20Ops-111111?style=for-the-badge\&logo=wazuh\&labelColor=00C8FF)
-![Zeek](https://img.shields.io/badge/Zeek-Network%20Monitoring-111111?style=for-the-badge\&logo=github\&labelColor=00C8FF)
-![Suricata](https://img.shields.io/badge/Suricata-Network%20Detection-111111?style=for-the-badge\&logo=github\&labelColor=00C8FF)
-![MISP](https://img.shields.io/badge/MISP-Threat%20Intel-111111?style=for-the-badge\&logo=github\&labelColor=00C8FF)
-![TheHive](https://img.shields.io/badge/TheHive-IR%20Mgmt-111111?style=for-the-badge\&logo=github\&labelColor=00C8FF)
-![Security Onion](https://img.shields.io/badge/Security%20Onion-SOC%20Distro-111111?style=for-the-badge\&logo=github\&labelColor=00C8FF)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-EDR%20Ops-111111?style=for-the-badge\&logo=crowdstrike\&labelColor=00C8FF)
+![Node.js](https://img.shields.io/badge/Node.js-Server%20Runtime-111111?style=for-the-badge&logo=node.js&labelColor=00C896)
+![Express](https://img.shields.io/badge/Express-Lightweight%20API-111111?style=for-the-badge&logo=express&labelColor=00C896)
+![FastAPI](https://img.shields.io/badge/FastAPI-High%20Perf%20Python-111111?style=for-the-badge&logo=fastapi&labelColor=00C896)
+![Django](https://img.shields.io/badge/Django-Fullstack%20Backend-111111?style=for-the-badge&logo=django&labelColor=00C896)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Java%20APIs-111111?style=for-the-badge&logo=spring&labelColor=00C896)
+![NestJS](https://img.shields.io/badge/NestJS-Scalable%20Node-111111?style=for-the-badge&logo=nestjs&labelColor=00C896)
+![Gin](https://img.shields.io/badge/Gin-Go%20Web%20Framework-111111?style=for-the-badge&logo=go&labelColor=00C896)
+![Actix](https://img.shields.io/badge/Actix-Rust%20Backend-111111?style=for-the-badge&logo=rust&labelColor=00C896)
+![Flask](https://img.shields.io/badge/Flask-Minimal%20API-111111?style=for-the-badge&logo=flask&labelColor=00C896)
+![Fiber](https://img.shields.io/badge/Fiber-Go%20Express--like-111111?style=for-the-badge&logo=go&labelColor=00C896)
 
-### Red Team / Pentest 
+---
 
-![Metasploit](https://img.shields.io/badge/Metasploit-Vuln%20Framework-111111?style=for-the-badge\&logo=metasploit\&labelColor=FF2A6D)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Red%20Team-111111?style=for-the-badge\&labelColor=FF2A6D)
-![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Package%20Filtering-111111?style=for-the-badge\&logo=wireshark\&labelColor=FF2A6D)
-![Nmap](https://img.shields.io/badge/Nmap-Network%20Recon-111111?style=for-the-badge\&logo=nmap\&labelColor=FF2A6D)
-![SQLmap](https://img.shields.io/badge/SQLmap-SQL%20Injection%20Automation-111111?style=for-the-badge\&logo=github\&labelColor=FF2A6D)
-![Masscan](https://img.shields.io/badge/Masscan-Port%20Scan-111111?style=for-the-badge\&logo=github\&labelColor=FF2A6D)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Exploitation-111111?style=for-the-badge\&logo=burpsuite\&labelColor=FF2A6D)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-API%20Security-111111?style=for-the-badge\&logo=owasp\&labelColor=FF2A6D)
-![SQLmap](https://img.shields.io/badge/SQLmap-DB%20Exploitation-111111?style=for-the-badge\&logo=sqlmap\&labelColor=FF2A6D)
-![Hashcat](https://img.shields.io/badge/Hashcat-Password%20Cracking-111111?style=for-the-badge\&logo=github\&labelColor=FF2A6D)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-Password%20Cracking-111111?style=for-the-badge\&logo=github\&labelColor=FF2A6D)
-![Impacket](https://img.shields.io/badge/Impacket-Network%20Attacks-111111?style=for-the-badge\&logo=github\&labelColor=FF2A6D)
+### Frontend Libraries & Tooling
 
+![React](https://img.shields.io/badge/React-UI%20Components-111111?style=for-the-badge&logo=react&labelColor=FFB000)
+![Next.js](https://img.shields.io/badge/Next.js-SSR%20Framework-111111?style=for-the-badge&logo=next.js&labelColor=FFB000)
+![Vite](https://img.shields.io/badge/Vite-Build%20Tool-111111?style=for-the-badge&logo=vite&labelColor=FFB000)
+![Redux](https://img.shields.io/badge/Redux-State%20Mgmt-111111?style=for-the-badge&logo=redux&labelColor=FFB000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-Utility%20CSS-111111?style=for-the-badge&logo=tailwindcss&labelColor=FFB000)
+![Sass](https://img.shields.io/badge/Sass-CSS%20Preprocessor-111111?style=for-the-badge&logo=sass&labelColor=FFB000)
+![Webpack](https://img.shields.io/badge/Webpack-Bundler-111111?style=for-the-badge&logo=webpack&labelColor=FFB000)
+![ESLint](https://img.shields.io/badge/ESLint-Code%20Linting-111111?style=for-the-badge&logo=eslint&labelColor=FFB000)
+![Prettier](https://img.shields.io/badge/Prettier-Code%20Format-111111?style=for-the-badge&logo=prettier&labelColor=FFB000)
+![Storybook](https://img.shields.io/badge/Storybook-UI%20Docs-111111?style=for-the-badge&logo=storybook&labelColor=FFB000)
 
-### Incident Response
+---
 
-![Volatility](https://img.shields.io/badge/Volatility-Memory%20Forensics-111111?style=for-the-badge\&logo=github\&labelColor=B388FF)
-![Autopsy](https://img.shields.io/badge/Autopsy-File%20Analysis-111111?style=for-the-badge\&logo=autopsy\&labelColor=B388FF)
-![FTK](https://img.shields.io/badge/FTK-Digital%20Forensics-111111?style=for-the-badge\&logo=forensics\&labelColor=B388FF)
-![Plaso](https://img.shields.io/badge/Plaso-Timeline%20IR-111111?style=for-the-badge\&logo=plaso\&labelColor=B388FF)
-![KAPE](https://img.shields.io/badge/KAPE-IR%20Automation-111111?style=for-the-badge\&logo=windows\&labelColor=B388FF)
-![Timesketch](https://img.shields.io/badge/Timesketch-Timeline%20Analysis-111111?style=for-the-badge\&logo=github\&labelColor=B388FF)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-Endpoint%20Forensics-111111?style=for-the-badge\&logo=velociraptor\&labelColor=B388FF)
-![CyberChef](https://img.shields.io/badge/CyberChef-IOC%20Extraction-111111?style=for-the-badge\&logo=chef\&labelColor=B388FF)
+### Databases & Data Stores
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20DB-111111?style=for-the-badge&logo=postgresql&labelColor=FF5F5F)
+![MySQL](https://img.shields.io/badge/MySQL-Relational%20DB-111111?style=for-the-badge&logo=mysql&labelColor=FF5F5F)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-111111?style=for-the-badge&logo=mongodb&labelColor=FF5F5F)
+![SQLite](https://img.shields.io/badge/SQLite-Embedded%20DB-111111?style=for-the-badge&logo=sqlite&labelColor=FF5F5F)
+![Redis](https://img.shields.io/badge/Redis-In--Memory%20Cache-111111?style=for-the-badge&logo=redis&labelColor=FF5F5F)
+![Cassandra](https://img.shields.io/badge/Cassandra-Wide%20Column-111111?style=for-the-badge&logo=apachecassandra&labelColor=FF5F5F)
+![ElasticSearch](https://img.shields.io/badge/Elasticsearch-Search%20Engine-111111?style=for-the-badge&logo=elasticsearch&labelColor=FF5F5F)
+![DuckDB](https://img.shields.io/badge/DuckDB-Analytics%20DB-111111?style=for-the-badge&logo=duckdb&labelColor=FF5F5F)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-Time%20Series-111111?style=for-the-badge&logo=influxdb&labelColor=FF5F5F)
+![Neo4j](https://img.shields.io/badge/Neo4j-Graph%20DB-111111?style=for-the-badge&logo=neo4j&labelColor=FF5F5F)
 
-### Cloud & Infrastructure
+---
 
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Sec-111111?style=for-the-badge\&logo=amazon-aws\&labelColor=FFD700)
-![Azure](https://img.shields.io/badge/Azure-Cloud%20Sec-111111?style=for-the-badge\&logo=microsoft-azure\&labelColor=FFD700)
-![GCP](https://img.shields.io/badge/GCP-Cloud%20Sec-111111?style=for-the-badge\&logo=google-cloud\&labelColor=FFD700)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-Logs%20Monitoring-111111?style=for-the-badge\&logo=amazon-aws\&labelColor=FFD700)
-![Azure Logs](https://img.shields.io/badge/Azure%20Logs-Cloud%20Monitoring-111111?style=for-the-badge\&logo=microsoft-azure\&labelColor=FFD700)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-111111?style=for-the-badge\&logo=terraform\&labelColor=FFD700)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-111111?style=for-the-badge\&logo=ansible\&labelColor=FFD700)
-![Prowler](https://img.shields.io/badge/Prowler-Cloud%20Auditing-111111?style=for-the-badge\&logo=github\&labelColor=FFD700)
-![Falco](https://img.shields.io/badge/Falco-Runtime%20Security-111111?style=for-the-badge\&logo=github\&labelColor=FFD700)
-![Nessus](https://img.shields.io/badge/Nessus-Vulnerability%20Scan-111111?style=for-the-badge\&logo=tenable\&labelColor=FFD700)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-Vuln%20Scan-111111?style=for-the-badge\&logo=green\&labelColor=FFD700)
+### DevOps, Systems & Infra
+
+![Linux](https://img.shields.io/badge/Linux-Primary%20OS-111111?style=for-the-badge&logo=linux&labelColor=B388FF)
+![Git](https://img.shields.io/badge/Git-Version%20Control-111111?style=for-the-badge&logo=git&labelColor=B388FF)
+![Docker](https://img.shields.io/badge/Docker-Containers-111111?style=for-the-badge&logo=docker&labelColor=B388FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-111111?style=for-the-badge&logo=kubernetes&labelColor=B388FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-111111?style=for-the-badge&logo=githubactions&labelColor=B388FF)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-111111?style=for-the-badge&logo=nginx&labelColor=B388FF)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-111111?style=for-the-badge&logo=terraform&labelColor=B388FF)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-111111?style=for-the-badge&logo=ansible&labelColor=B388FF)
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-111111?style=for-the-badge&logo=prometheus&labelColor=B388FF)
+![Grafana](https://img.shields.io/badge/Grafana-Metrics%20Dashboards-111111?style=for-the-badge&logo=grafana&labelColor=B388FF)
+
+---
+
+### Testing, Quality & Observability
+
+![JUnit](https://img.shields.io/badge/JUnit-Java%20Testing-111111?style=for-the-badge&logo=junit5&labelColor=FFD700)
+![PyTest](https://img.shields.io/badge/PyTest-Python%20Testing-111111?style=for-the-badge&logo=pytest&labelColor=FFD700)
+![Jest](https://img.shields.io/badge/Jest-JS%20Testing-111111?style=for-the-badge&logo=jest&labelColor=FFD700)
+![Mocha](https://img.shields.io/badge/Mocha-Test%20Runner-111111?style=for-the-badge&logo=mocha&labelColor=FFD700)
+![Cypress](https://img.shields.io/badge/Cypress-E2E%20Tests-111111?style=for-the-badge&logo=cypress&labelColor=FFD700)
+![Playwright](https://img.shields.io/badge/Playwright-Browser%20Tests-111111?style=for-the-badge&logo=playwright&labelColor=FFD700)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Tracing-111111?style=for-the-badge&logo=opentelemetry&labelColor=FFD700)
+![Jaeger](https://img.shields.io/badge/Jaeger-Distributed%20Tracing-111111?style=for-the-badge&logo=jaeger&labelColor=FFD700)
+![Sentry](https://img.shields.io/badge/Sentry-Error%20Tracking-111111?style=for-the-badge&logo=sentry&labelColor=FFD700)
+![SonarQube](https://img.shields.io/badge/SonarQube-Code%20Quality-111111?style=for-the-badge&logo=sonarqube&labelColor=FFD700)
 
 <hr>
 
