@@ -97,7 +97,7 @@ Software Engineer focused on **building reliable systems, clean APIs, and scalab
 ### Systems & Dev Practices
 
 ![Linux](https://img.shields.io/badge/Linux-Comfortable-111111?style=for-the-badge&labelColor=FF5F5F)
-![Git](https://img.shields.io/badge/Git-Version%20Control-Strong-111111?style=for-the-badge&labelColor=FF5F5F)
+![Git](https://img.shields.io/badge/Git-Strong-111111?style=for-the-badge&labelColor=FF5F5F)
 ![Docker](https://img.shields.io/badge/Docker-Basics-111111?style=for-the-badge&labelColor=FF5F5F)
 ![Testing](https://img.shields.io/badge/Testing-Mindset-111111?style=for-the-badge&labelColor=FF5F5F)
 
