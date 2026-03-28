@@ -197,7 +197,7 @@ Software Engineer focused on **building reliable systems, clean APIs, and scalab
 
 ## 🧩 GITHUB STATS
 
-![](https://github-readme-stats.vercel.app/api?username=kishore007raj&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kishore007raj&theme=tokyonight&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kishore007raj\&theme=neon\&hide_border=false\&border_radius=8\&background=0d1117\&border=30363d\&ring=00f7ff\&fire=ff00ff\&currStreakLabel=00f7ff\&sideLabels=00f7ff\&dates=ffffff\&currStreakNum=ffffff\&sideNums=ffffff)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishore007raj&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
